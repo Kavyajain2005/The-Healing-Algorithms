@@ -17,6 +17,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     });
 
     const data = await response.json();
+// <h1 className="text-red-500 text-3xl font-bold">Welcome</h1>
 
     if (response.ok) {
       return res.status(200).json(data);
