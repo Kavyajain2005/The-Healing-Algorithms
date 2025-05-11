@@ -1,0 +1,19 @@
+.transcript-page {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #f3f4f7;
+  min-height: 100vh;
+}
+
+.transcript-page h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.transcript-page p {
+  font-size: 1.4rem;
+  color: #7f8c8d;
+  margin-top: 20px;
+}
